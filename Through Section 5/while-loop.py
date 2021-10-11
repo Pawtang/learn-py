@@ -7,4 +7,4 @@ while chosenExit not in availableExits:
         print("Game over")
         break
 
-print("You escaped.")
+else: print("You escaped.")
